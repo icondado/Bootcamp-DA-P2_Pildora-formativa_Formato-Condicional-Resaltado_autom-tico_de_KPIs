@@ -13,7 +13,8 @@ Además de la presentación, se proporciona material complementario para practic
 
 * 📝 **Ejercicios Prácticos.docx**: documento con ejercicios propuestos para poner en práctica los conocimientos adquiridos.
 * 📊 **Formato Condicional en Power BI.pbix**: archivo de Power BI utilizado en los ejercicios y ejemplos de formato condicional comentados durante la presentación.
-* 🎓 **Formato-Condicional-en-Power-BI.pdf**: presentación utilizada durante la exposición, en la que se hace referencia tanto a los ejercicios prácticos como al archivo de Power BI.
+* 🎓 **Formato-Condicional-PowerBI.pdf**: presentación utilizada durante la exposición, en la que se hace referencia tanto a los ejercicios prácticos como al archivo de Power BI.
+* 🎮 Kahoot! de repaso: pon a prueba tus conocimientos con el cuestionario interactivo disponible en el siguiente enlace: Acceder al Kahoot!.
 
 > 💡 **Recomendación:** sigue la presentación y realiza los ejercicios utilizando el archivo **Formato Condicional en Power BI.pbix** para reforzar el aprendizaje y afianzar los conceptos tratados.
 
