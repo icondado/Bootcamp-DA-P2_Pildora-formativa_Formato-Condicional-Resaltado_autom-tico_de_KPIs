@@ -7,7 +7,18 @@ desviaciones o cualquier otra métrica relevante para el análisis, sin necesida
 Es importante destacar que el término KPI no se limita a los indicadores únicos mostrados en los encabezados de un dashboard. En este contexto, se refiere 
 a cualquier dato, métrica o información dentro de tablas, gráficos o cualquier otro elemento del informe que aporte valor y facilite la toma de decisiones.
 
-Recursos:
+## 📚 Material adicional
+
+Además de la presentación, se proporciona material complementario para practicar los conceptos explicados:
+
+* 📝 **Ejercicios Prácticos.docx**: documento con ejercicios propuestos para poner en práctica los conocimientos adquiridos.
+* 📊 **Formato Condicional en Power BI.pbix**: archivo de Power BI utilizado en los ejercicios y ejemplos de formato condicional comentados durante la presentación.
+* 🎓 **Formato-Condicional-en-Power-BI.pdf**: presentación utilizada durante la exposición, en la que se hace referencia tanto a los ejercicios prácticos como al archivo de Power BI.
+
+> 💡 **Recomendación:** sigue la presentación y realiza los ejercicios utilizando el archivo **Formato Condicional en Power BI.pbix** para reforzar el aprendizaje y afianzar los conceptos tratados.
+
+
+## Recursos:
 - 🎨 Herramientas útiles para seleccionar tu paleta de colores:
 - 🌟 Adobe Color Wheel: https://color.adobe.com/create
 - 🎉 Coolors: https://coolors.co/
@@ -16,7 +27,7 @@ Recursos:
 - 🌟 Paletton: https://paletton.com/
 - 📚 Material Design Palette: https://material.io/design/color/the-color-system.html
 
-Consejos para elegir tus colores:
+## Consejos para elegir tus colores:
 - 🚦 Contraste: Asegúrate de que haya suficiente contraste entre el texto y el fondo para mejorar la accesibilidad.
 - 🔄 Variedad: Utiliza una variedad de colores que se complementen entre sí para resaltar diferentes aspectos de tus datos.
 - 🤝 Coherencia: Mantén la coherencia en toda tu visualización para una experiencia de usuario más agradable.
